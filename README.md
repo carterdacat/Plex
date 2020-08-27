@@ -13,7 +13,7 @@ Plex is a public and semi open source code bot made to just work. It has many le
 
 ### Configuration Options
 
-* Prefix: The Prefix the bot responds to. Default: !
+* Prefix: The Prefix the bot responds to. Default: !h
 * Nickname: The nickname of the bot. Default: Plex
 * Responses: Messages the bot will respond to
 * Highly Advanced Logging via Web hooks
