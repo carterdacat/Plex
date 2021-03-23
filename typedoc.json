@@ -1,0 +1,18 @@
+{
+    "inputFiles": ["./src"],
+    "mode": "file",
+    "out": "docs/dev",
+    "exclude": ["./src/commands", "./src/events"],
+    "name": "Plex",
+    "includeVersion": true,
+    "readme": "none",
+    "ignoreCompilerErrors": true,
+    "plugin": "none",
+    "listInvalidSymbolLinks": true,
+    "excludePrivate": true,
+    "excludeProtected": true,
+    "excludeExternals": true,
+    "includeDeclarations": true,
+    "tsconfig": "tsconfig.json",
+    "categorizeByGroup": false
+  }

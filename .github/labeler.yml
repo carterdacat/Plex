@@ -1,0 +1,26 @@
+root:
+  - ./*
+
+rest: 
+  - src/controllers/**/*
+
+documentation:
+  - docs/**/*
+  
+framework:
+  - src/main/**/*
+  
+javascript:
+- any: ['src/**/*.js']
+  
+typescript:
+- any: ['src/**/*.ts']
+  
+Event:
+  - src/events/**/*
+ 
+Command: 
+  - src/commands/**/*
+
+
+  
